@@ -6,3 +6,4 @@ Fitur Halaman About :
 4. membuat footer
 5. menambahkan portofolio 
 6. Menambahkan Halaman Login sebelum about
+7. penambahan di halaman about
