@@ -1,0 +1,6 @@
+Fitur Halaman About :
+
+1. Detail Perusahaan
+2. Menambahkan profil perusahaan
+3. Menambahkan sejarah perusahaan
+4. membuat footer
