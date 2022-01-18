@@ -1,0 +1,3 @@
+Belajar Pembuatan GITHUB :
+1. Membuat Repository
+2. Mengatur posisi repository
