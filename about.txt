@@ -1,10 +1,12 @@
 Fitur Halaman About :
 
-1. Menambahkan Fitur tentang Mobile
+
+1. Halaman About diambil menggunakan rest api dan menambahkan fitur mobile
 2. Menambahkan profil perusahaan
 3. Menambahkan sejarah perusahaan
 4. membuat footer
 5. menambahkan portofolio 
 6. Menambahkan Halaman Login sebelum about
 7. penambahan di halaman about
+8. Menggunakan proses auth untuk menangkap parameter
 
