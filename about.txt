@@ -5,3 +5,4 @@ Fitur Halaman About :
 3. Menambahkan sejarah perusahaan
 4. membuat footer
 5. menambahkan portofolio 
+6. Menambahkan Halaman Login sebelum about
