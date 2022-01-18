@@ -4,4 +4,4 @@ Fitur Halaman About :
 2. Menambahkan profil perusahaan
 3. Menambahkan sejarah perusahaan
 4. membuat footer
-5. menambahkan portofolio 
+5. Halaman AI
