@@ -1,6 +1,6 @@
 Fitur Halaman About :
 
-
+1. Menambahkan Fitur tentang Mobile
 2. Menambahkan profil perusahaan
 3. Menambahkan sejarah perusahaan
 4. membuat footer
